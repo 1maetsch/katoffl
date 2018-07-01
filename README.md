@@ -2,3 +2,7 @@
 
 # Katoffl
 A browser extension that replaces 🇩🇪 with 🥔 on Twitter.
+
+![Example 1 - Afd](examples/example1.png?raw=true)
+
+![Example 2 - BILD](examples/example2.png?raw=true)
